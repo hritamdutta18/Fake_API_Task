@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Groot",
+      "image" : "https://cdn.vox-cdn.com/thumbor/Jw5hIp6CEfyD6bDzwcpavbmU4c4=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8378039/baby-groot-guardians.0.jpg",
+      "date": "2021-07-12",
+      "location": "Jamshedpur"
+    },
+    {
+      "id": 2,
+      "title": "A Dog",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmJCn-c-fLM9cla-xtKan1q3iuy_QkJGMxw&usqp=CAU",
+      "date": "2020-09-22",
+      "location": "Shimla"
+    },
+    {
+      "id": 3,
+      "title": "A Cat",
+	  "image": "https://i.postimg.cc/c43dZdmC/image.png",
+      "date": "2021-01-30",
+      "location": "Chennai"
+    },
+    {
+      "id": 4,
+      "title": "Today's Beautiful Picture",
+	  "image": "https://i.postimg.cc/gj8cMptx/image.png",
+      "date": "2021-08-20",
+      "location": "Ranchi"
+    },
+    {
+      "id": 5,
+      "title": "VIT Vellore Periyar Library",
+	  "image": "https://i.postimg.cc/CLJpwd8F/image.png",
+      "date": "2019-09-08",
+      "location": "Vellore"
+    }
+  ]  
+}
